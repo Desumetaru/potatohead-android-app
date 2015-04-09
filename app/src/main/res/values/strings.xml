@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="intro_text">Mr. Potato Head</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="eyebrows">Eyebrows</string>
+    <string name="hat">Hat</string>
+    <string name="eyes">Eyes</string>
+    <string name="glasses">Glasses</string>
+    <string name="mouth">Mouth</string>
+    <string name="moustache">Moustache</string>
+    <string name="arms">Arms</string>
+    <string name="nose">Nose</string>
+    <string name="shoes">Shoes</string>
+    <string name="ears">Ears</string>
+</resources>
